@@ -1,3 +1,4 @@
 name: DataVikings, bloggers from the north
 theme: jekyll-theme-tactile
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
