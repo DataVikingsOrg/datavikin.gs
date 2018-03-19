@@ -1,6 +1,2 @@
 name: DataVikings, bloggers from the north
 theme: jekyll-theme-hacker
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-plugins:
-  - jekyll-sitemap
