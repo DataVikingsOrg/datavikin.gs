@@ -1,5 +1,5 @@
 name: DataVikings, bloggers from the north
-theme: jekyll-theme-hacker
+theme: hacker
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
