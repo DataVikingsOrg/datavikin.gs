@@ -26,7 +26,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-115904894-1
-google_verify:      datavikin.gs
+#google_verify:      datavikin.gs
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 #bing_verify:         
 
