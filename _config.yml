@@ -43,6 +43,33 @@ links:
     url: /categories
   - title: About
     url: /about
+    
+# Metadata about the bloggers
+bloggers:
+  - id: david
+    name: David L. Bojsen
+    avatar: david.jpg
+    email: david@datavikin.gs
+    description: Viking
+    twitter: dlbojsen
+    facebook: davidbojsen
+    github: DataVikingsOrg 
+  - id: bent
+    name: Bent Nissen Pedersen
+    avatar: bent.jpg
+    email: bent@datavikin.gs
+    description: Viking
+    twitter: TheSQLViking
+    facebook: bent.pedersen
+    github: DataVikingsOrg 
+  - id: daniel
+    name: Daniel Otykier
+    avatar: daniel.jpg
+    email: daniel@datavikin.gs
+    description: Viking
+    twitter: DOtykier
+    facebook: otykier
+    github: DataVikingsOrg 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Copenhagen
