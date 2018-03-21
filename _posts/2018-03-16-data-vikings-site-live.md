@@ -5,14 +5,6 @@ date: 2018-03-16
 blogger: david
 category: blog
 tags: [sample post, intro]
-author:
-  name:           David L. Bojsen
-  avatar:         david.jpg
-  email:          david@datavikin.gs
-  description:    Principal Architect
-  twitter:        dlbojsen
-  facebook:       davidbojsen
-  github:         DataVikingsOrg   
 ---
 
 We finally settled on the name for our new blog and community site - DataVikings (or datavikin.gs for short).
