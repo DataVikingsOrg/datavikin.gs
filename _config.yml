@@ -46,7 +46,7 @@ links:
     
 # Metadata about the bloggers
 bloggers:
-  - id: david
+  david:
     name: David L. Bojsen
     avatar: david.jpg
     email: david@datavikin.gs
@@ -54,7 +54,7 @@ bloggers:
     twitter: dlbojsen
     facebook: davidbojsen
     github: DataVikingsOrg 
-  - id: bent
+  bent:
     name: Bent Nissen Pedersen
     avatar: bent.jpg
     email: bent@datavikin.gs
@@ -62,7 +62,7 @@ bloggers:
     twitter: TheSQLViking
     facebook: bent.pedersen
     github: DataVikingsOrg 
-  - id: daniel
+  daniel:
     name: Daniel Otykier
     avatar: daniel.jpg
     email: daniel@datavikin.gs
