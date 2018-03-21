@@ -2,6 +2,7 @@
 layout: post
 title: "Data Vikings launches site"
 date: 2018-03-16
+blogger: david
 author:
   name:           David L. Bojsen
   avatar:         david.jpg
